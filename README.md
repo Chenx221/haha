@@ -3,7 +3,7 @@ haha
 
 蛤蛤体生成器
 
-http://dkwingsmt.github.io/haha
+http://chenx221.github.io/haha
 
 
 
